@@ -4,13 +4,16 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Real-Time Collaboration:
 
-A few resources to get you started if this is your first Flutter project:
+Every user sees the drawings updated in real-time using Firebase Realtime Database.
+Multiple users can draw simultaneously on the same canvas.
+Customizable Pen:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Users can change the pen color and thickness to personalize their drawings.
+Smooth and Responsive Drawing:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Drawing experience feels smooth and responsive even with real-time updates.
+Shared Canvas:
+
+The canvas is shared, so any change made by one user is instantly visible to all.
